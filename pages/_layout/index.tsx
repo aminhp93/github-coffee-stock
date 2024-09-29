@@ -12,9 +12,6 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           <Link href="/">home</Link>
         </li>
         <li>
-          <Link href="/blog">blog</Link>
-        </li>
-        <li>
           <Link href="/stock">stock</Link>
         </li>
       </ul>
